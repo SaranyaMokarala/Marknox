@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Marknox/static/css/main.08a7eced.css",
+    "main.js": "/Marknox/static/js/main.cd4ca63f.js",
+    "static/js/453.aac68abc.chunk.js": "/Marknox/static/js/453.aac68abc.chunk.js",
+    "static/media/github.svg": "/Marknox/static/media/github.5531be85d7a8d6f333e5c7136944a022.svg",
+    "static/media/gmail.svg": "/Marknox/static/media/gmail.29ac350df92c649ab87525a839df486e.svg",
+    "static/media/youtube.svg": "/Marknox/static/media/youtube.361fd800e39dcb080516df2e39c7a994.svg",
+    "static/media/linkedin.svg": "/Marknox/static/media/linkedin.273511fb10ee9bfadc8cf9a87d4279e0.svg",
+    "index.html": "/Marknox/index.html",
+    "static/media/x.svg": "/Marknox/static/media/x.63e6aefc8ecac35cc4c791e1f6b6bd8d.svg",
+    "main.08a7eced.css.map": "/Marknox/static/css/main.08a7eced.css.map",
+    "main.cd4ca63f.js.map": "/Marknox/static/js/main.cd4ca63f.js.map",
+    "453.aac68abc.chunk.js.map": "/Marknox/static/js/453.aac68abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08a7eced.css",
+    "static/js/main.cd4ca63f.js"
+  ]
+}
