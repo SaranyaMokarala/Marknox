@@ -1,0 +1,26 @@
+/* Footer Background */
+.footer {
+    background-color: #14b8a6; /* Equivalent to bg-teal-500 */
+    padding: 2.5rem; /* Equivalent to p-10 */
+    text-align: center;
+    width: 100%;
+}
+
+/* Contact Section */
+.contact {
+    display: flex;
+    justify-content: center;
+}
+
+/* Icon Link Styling */
+.icon-link {
+    display: inline-flex;
+    padding-left: 1.25rem; /* Equivalent to px-5 */
+    padding-right: 1.25rem;
+}
+
+/* Icon Styling */
+.icon {
+    width: 2rem; /* Equivalent to h-8 and w-8 */
+    height: 2rem;
+}
